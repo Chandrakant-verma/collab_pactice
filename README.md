@@ -9,4 +9,5 @@
 
 - Email: example@example.com
 - For support, contact the project maintainer.
-Project Status: Active Development
+
+Project Status: Active Development - Ready for Testing
